@@ -8,8 +8,7 @@
         PhoneGap Team
     </author>
 	 <!-- all platforms -->
-  <preference name="phonegap-version" value="cli-9.0.0" />
-  <preference name="fullscreen" value="true" />
+
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
